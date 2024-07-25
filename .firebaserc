@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-b57ce": {
+      "hosting": {
+        "danotes": [
+          "danotes-b57ce"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-b57ce"
+  }
+}
